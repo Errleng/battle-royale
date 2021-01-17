@@ -1,0 +1,2 @@
+Enter the name of the file containing the map
+2
